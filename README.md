@@ -1,6 +1,7 @@
 # Financial Fraud Detection using Spark
 ## Overview
 This project aims to develop a system for detecting financial fraud in payment services using Apache Spark. Financial fraud is a significant issue in the banking and financial industry, leading to substantial financial losses and damages to both businesses and customers. Detecting fraudulent activities promptly is crucial for minimizing these losses and maintaining trust in financial systems.
+![Fraud Detection](https://www.softwebsolutions.com/wp-content/uploads/2018/08/Fraud-detection.jpg)
 
 ## Features
 - Data Preprocessing: The project involves preprocessing large volumes of transaction data to extract relevant features and prepare the data for model training.
