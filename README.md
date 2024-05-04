@@ -20,4 +20,4 @@ Nguyen Truong Duy: Team Leader
 Pham Hoang Long: Member
 Do Quoc Dat: Member
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the http://www.apache.org/licenses/ file for details.
