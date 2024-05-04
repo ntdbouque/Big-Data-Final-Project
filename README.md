@@ -16,12 +16,15 @@ This project aims to develop a system for detecting financial fraud in payment s
 - Scalability: Leveraging the distributed computing capabilities of Apache Spark, the system can handle large volumes of transaction data with high scalability and performance.
 ## Requirements
 - Apache Spark: The project requires Apache Spark for distributed data processing and machine learning.
-- Python (or Scala): Programming language for implementing Spark jobs and data analysis.
-- Data: High-quality transaction data containing both legitimate and fraudulent transactions for model training and testing.
+- Python: Programming language for implementing Spark jobs and data analysis.
+  
 ## Usage
-- Data Preprocessing: Use the provided scripts to preprocess the transaction data, including feature extraction and data transformation.
-- Model Training: Train the machine learning models using Spark's MLlib library with the preprocessed data.
-- Model Evaluation: Evaluate the trained models using relevant metrics to assess their performance.
+- Training: Train the machine learning models using Spark's MLlib library with the preprocessed data with Decision Tree and Logistic Regression Algorithm
+- EDA: visualize data with pie chart, bar chart, KDE by Matplotlib, Seaborn and Pandas
+
+## Data:
+- The dataset can access easily in Kaggle by [Fraud Dataset](https://www.kaggle.com/datasets/truongduynguyen/big-data)
+  
 ## Contributors
 - Nguyen Truong Duy (22DAI): Team Leader
 - Pham Hoang Long (22DAI): Team Member
