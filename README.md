@@ -1,7 +1,11 @@
 # Financial Fraud Detection using Spark
+<div align="center">
+  <img src="https://th.bing.com/th/id/OIP.IxKnWnZfDynO1fJG4rGIJQAAAA?w=474&h=298&rs=1&pid=ImgDetMain" alt="Fraud Detection">
+</div>
+
 ## Overview
 This project aims to develop a system for detecting financial fraud in payment services using Apache Spark. Financial fraud is a significant issue in the banking and financial industry, leading to substantial financial losses and damages to both businesses and customers. Detecting fraudulent activities promptly is crucial for minimizing these losses and maintaining trust in financial systems.
-![Fraud Detection](https://th.bing.com/th/id/OIP.IxKnWnZfDynO1fJG4rGIJQAAAA?w=474&h=298&rs=1&pid=ImgDetMain)
+
 
 ## Features
 - Data Preprocessing: The project involves preprocessing large volumes of transaction data to extract relevant features and prepare the data for model training.
@@ -21,4 +25,4 @@ This project aims to develop a system for detecting financial fraud in payment s
 - Pham Hoang Long (22DAI): Team Member
 - Do Quoc Dat (22DAI): Team Member
 ## License
-This project is licensed under the MIT License - see the http://www.apache.org/licenses/ file for details.
+This project is licensed under the MIT License - see the [License]([đường_dẫn](http://www.apache.org/licenses/) file for details.
