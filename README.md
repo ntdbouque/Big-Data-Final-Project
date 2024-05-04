@@ -17,7 +17,7 @@ This project aims to develop a system for detecting financial fraud in payment s
 - Model Evaluation: Evaluate the trained models using relevant metrics to assess their performance.
 ## Contributors
 - Nguyen Truong Duy (22DAI): Team Leader
-- Pham Hoang Long (22DAI): Member
-- Do Quoc Dat (22DAI): Member
+- Pham Hoang Long (22DAI): Team Member
+- Do Quoc Dat (22DAI): Team Member
 ## License
 This project is licensed under the MIT License - see the http://www.apache.org/licenses/ file for details.
