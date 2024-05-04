@@ -17,3 +17,9 @@ This project aims to develop a system for detecting financial fraud in payment s
 - Model Training: Train the machine learning models using Spark's MLlib library with the preprocessed data.
 - Model Evaluation: Evaluate the trained models using relevant metrics to assess their performance.
 - Real-time Deployment: Deploy the trained models to a production environment for real-time fraud detection in payment services.
+## Contributors
+Nguyen Truong Duy: Team Leader
+Pham Hoang Long: Member
+Do Quoc Dat: Member
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
