@@ -25,4 +25,4 @@ This project aims to develop a system for detecting financial fraud in payment s
 - Pham Hoang Long (22DAI): Team Member
 - Do Quoc Dat (22DAI): Team Member
 ## License
-This project is licensed under the MIT License - see the [License]([đường_dẫn](http://www.apache.org/licenses/) file for details.
+This project is licensed under the MIT License - see the [License](http://www.apache.org/licenses/) file for details.
