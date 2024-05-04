@@ -1,4 +1,6 @@
-# Financial Fraud Detection using Spark
+<div align="center">
+  <h1>Heading</h1>
+</div>
 <div align="center">
   <img src="https://th.bing.com/th/id/OIP.IxKnWnZfDynO1fJG4rGIJQAAAA?w=474&h=298&rs=1&pid=ImgDetMain" alt="Fraud Detection">
 </div>
